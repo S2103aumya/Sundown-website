@@ -472,6 +472,7 @@ nav h3{
 .footer h1{
     /* padding-top: 6vw; */
     padding-left: 2vw;
+    padding-bottom: 1vw;
     font-size: 22vw;
     position:absolute;
     top:30%;
